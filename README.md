@@ -1,6 +1,6 @@
-# 💸 Kharcha Tracker – Personal Budget & Expense Management App
+# 💸 Expense Tracker – Personal Budget & Expense Management App
 
-Kharcha Tracker is a full-stack MERN application designed to help users manage their budgets and expenses effortlessly. With an intuitive UI, secure authentication, and real-time financial insights, this app ensures you always stay on top of your personal finances.
+Expense Tracker is a full-stack MERN application designed to help users manage their budgets and expenses effortlessly. With an intuitive UI, secure authentication, and real-time financial insights, this app ensures you always stay on top of your personal finances.
 
 ---
 
